@@ -1,0 +1,24 @@
+.eight-ball {
+    color:white;
+    width: 300px;
+    height: 300px;
+    display: table-cell;
+    vertical-align: middle;
+    border-radius: 50%;
+}
+
+.eight-ball-black {
+    background-color: black;
+}
+
+.eight-ball-green {
+    background-color: lightgreen;
+}
+
+.eight-ball-goldenrod {
+    background-color: darkgoldenrod;
+}
+
+.eight-ball-red {
+    background-color: red;
+}
